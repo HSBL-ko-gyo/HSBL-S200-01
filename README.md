@@ -9,8 +9,6 @@ M5Stack CoreS3、SEの底面にRGBLEDを追加するハードウエアです。
 
 ## サンプルスケッチ
 
-### M5Unified.h使用
-
 ```cpp
 
 //#include <Arduino.h>
@@ -25,7 +23,7 @@ Adafruit_NeoPixel pixels(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 
 void setup() {
   pixels.begin(); // NeoPixelの初期化
-  M5.begin();
+  M5.begin(); // CoreS3はこれを行わないと底面より5Vが出ないので注意
 }
 
 void loop() {
