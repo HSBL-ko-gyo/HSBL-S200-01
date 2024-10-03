@@ -1,6 +1,7 @@
 # HSBL-S200-01
 
 M5Stack CoreS3、SEの底面にRGBLEDを追加するハードウエアです。  
+![](https://github.com/HSBL-ko-gyo/HSBL-S200-01/blob/main/Image/04.gif?raw=true)
 
 スイッチサイエンスで販売予定  
 
