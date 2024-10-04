@@ -3,7 +3,7 @@
 M5Stack CoreS3、SEの底面にRGBLEDを追加するハードウエアです。  
 ![](https://github.com/HSBL-ko-gyo/HSBL-S200-01/blob/main/Image/04.gif?raw=true)
 
-スイッチサイエンスで販売予定  
+[スイッチサイエンスで販売中](https://www.switch-science.com/products/9815)
 
 ## 回路図
 [リンク](https://github.com/HSBL-ko-gyo/HSBL-S200-01/tree/main/ElectricCircuit)
