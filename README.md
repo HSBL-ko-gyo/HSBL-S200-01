@@ -9,8 +9,8 @@ M5Stack CoreS3、SEの底面にRGBLEDを追加するハードウエアです。
 <img src="https://github.com/user-attachments/assets/17dca1c3-ad58-4de9-a57a-d9de3dc657ad" alt="image" width="300"/>
 
 
-上下があります。
-光拡散部のマークがある方がM5の下側になるように取り付け附属のネジで締めてください。  
+光拡散部には上下があります。  
+マークがある方がM5の下側になるように重ね、附属のネジで締めて固定してください。  
 
 附属のネジ4本は[M3-L16](https://jlcmc.com/product/s/E02/EDLU/FA-%E7%B4%A7%E5%9B%BA%E9%9B%B6%E4%BB%B6-%E8%9E%BA%E9%92%89?productModelNumber=EDLU-C17-M-M3-L16)です。
 
