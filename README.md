@@ -6,7 +6,8 @@ M5Stack CoreS3、SEの底面にRGBLEDを追加するハードウエアです。
 [スイッチサイエンスで販売中](https://www.switch-science.com/products/9815)
 
 ## 組み立て
-<img src="https://github.com/user-attachments/assets/7e2919a2-27f3-4177-b19d-9b0f10b13d1a" alt="image" width="300"/>
+<img src="https://github.com/user-attachments/assets/17dca1c3-ad58-4de9-a57a-d9de3dc657ad" alt="image" width="300"/>
+
 
 上下があります。
 光拡散部のマークがある方がM5の下側になるように取り付け附属のネジで締めてください。  
